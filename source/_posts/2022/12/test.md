@@ -17,13 +17,14 @@ tags:
 - Git : [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 \images\2022\12\test
+\images\2022\12\test\
 
-![Untitled](/images/2022/12/testUntitled.png)
+![Untitled](/images/2022/12/test/Untitled.png)
 
-![Untitled](/images/2022/12/testUntitled%201.png)
+![Untitled](/images/2022/12/test/Untitled%201.png)
 
 ## 실행 방법
 
-![Untitled](/images/2022/12/testUntitled%202.png)
+![Untitled](/images/2022/12/test/Untitled%202.png)
 
-![Untitled](/images/2022/12/testUntitled%203.png)
+![Untitled](/images/2022/12/test/Untitled%203.png)
